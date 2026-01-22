@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Hugo Narrow</title><link>https://hugo-narrow.vercel.app/</link><description>Recent content in Home on Hugo Narrow</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-narrow.vercel.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Shortcode Examples</title><link>https://hugo-narrow.vercel.app/posts/shortcode-examples/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://hugo-narrow.vercel.app/posts/shortcode-examples/</guid><description>&lt;p&gt;This page demonstrates all available shortcodes in the Hugo Narrow theme.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Hugo Narrow</title><link>https://git-najwa.github.io/labveiltech/</link><description>Recent content in Home on Hugo Narrow</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://git-najwa.github.io/labveiltech/index.xml" rel="self" type="application/rss+xml"/><item><title>Shortcode Examples</title><link>https://git-najwa.github.io/labveiltech/posts/shortcode-examples/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/shortcode-examples/</guid><description>&lt;p&gt;This page demonstrates all available shortcodes in the Hugo Narrow theme.&lt;/p&gt;
 &lt;h2 id="hugo-built-in-shortcodes"&gt;Hugo Built-in Shortcodes&lt;/h2&gt;
 &lt;p&gt;Hugo provides several &lt;a href="https://gohugo.io/shortcodes/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;built-in shortcodes&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt;. The content of these shortcodes is subject to change without notice, so you can visit the official page for detailed usage instructions.&lt;/p&gt;</description></item><item><title>GitHub Style Alert Test</title><link>https://hugo-narrow.vercel.app/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
+&lt;/a&gt;. The content of these shortcodes is subject to change without notice, so you can visit the official page for detailed usage instructions.&lt;/p&gt;</description></item><item><title>GitHub Style Alert Test</title><link>https://git-najwa.github.io/labveiltech/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
 &lt;p&gt;This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p&gt;
 &lt;h2 id="alert-syntax"&gt;Alert Syntax&lt;/h2&gt;
 &lt;h3 id="note-alert"&gt;Note Alert&lt;/h3&gt;
@@ -38,7 +38,7 @@
  id="alert-0-content"
  class="alert-content px-6 pb-6"&gt;
  &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
- &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Hugo - The World's Fastest Framework</title><link>https://hugo-narrow.vercel.app/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/projects/hugo-framework/</guid><description>A fast and flexible static site generator built with Go, powering thousands of websites worldwide.</description></item><item><title>KaTeX and Mermaid Test</title><link>https://hugo-narrow.vercel.app/posts/katex-and-mermaid-test/</link><pubDate>Tue, 16 Jan 2024 23:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/katex-and-mermaid-test/</guid><description>&lt;h1 id="katex-and-mermaid-test"&gt;KaTeX and Mermaid Test&lt;/h1&gt;
+ &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Hugo - The World's Fastest Framework</title><link>https://git-najwa.github.io/labveiltech/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/projects/hugo-framework/</guid><description>A fast and flexible static site generator built with Go, powering thousands of websites worldwide.</description></item><item><title>KaTeX and Mermaid Test</title><link>https://git-najwa.github.io/labveiltech/posts/katex-and-mermaid-test/</link><pubDate>Tue, 16 Jan 2024 23:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/katex-and-mermaid-test/</guid><description>&lt;h1 id="katex-and-mermaid-test"&gt;KaTeX and Mermaid Test&lt;/h1&gt;
 &lt;p&gt;This article is used to test the KaTeX and Mermaid features.&lt;/p&gt;
 &lt;h2 id="configuration"&gt;Configuration&lt;/h2&gt;
 &lt;h3 id="frontmatter-configuration"&gt;Frontmatter Configuration&lt;/h3&gt;
@@ -636,7 +636,7 @@
 &lt;/script&gt;
 &lt;h2 id="katex-test"&gt;KaTeX Test&lt;/h2&gt;
 &lt;h3 id="inline-formula"&gt;Inline Formula&lt;/h3&gt;
-&lt;p&gt;This is an inline formula: $E = mc^2$, Einstein&amp;rsquo;s mass-energy equivalence formula.&lt;/p&gt;</description></item><item><title>Image Rendering Test</title><link>https://hugo-narrow.vercel.app/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
+&lt;p&gt;This is an inline formula: $E = mc^2$, Einstein&amp;rsquo;s mass-energy equivalence formula.&lt;/p&gt;</description></item><item><title>Image Rendering Test</title><link>https://git-najwa.github.io/labveiltech/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
 &lt;p&gt;The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
@@ -652,7 +652,7 @@ All images are from &lt;a href="https://unsplash.com/"target="_blank"
  data-gallery-type="auto"&gt;
  &lt;div class="image-container"&gt;
  &lt;img
- src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone)"
  title="Photo by - Daniel Leone"
  
@@ -661,13 +661,13 @@ All images are from &lt;a href="https://unsplash.com/"target="_blank"
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ data-gallery-src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone)"
  data-gallery-title="Photo by - Daniel Leone" /&gt;&lt;/div&gt;
 
  &lt;figcaption class="image-caption"&gt;
  Photo by - Daniel Leone
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>Code Highlighting Test</title><link>https://hugo-narrow.vercel.app/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test"&gt;Code Highlighting Test&lt;/h1&gt;
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>Code Highlighting Test</title><link>https://git-najwa.github.io/labveiltech/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test"&gt;Code Highlighting Test&lt;/h1&gt;
 &lt;p&gt;This article is used to test the new code highlighting feature, including syntax highlighting, copy button, language display, etc.&lt;/p&gt;
 &lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
 &lt;div
@@ -2234,4 +2234,4 @@ function test() {
 })();
 &lt;/script&gt;
 &lt;h2 id="inline-code"&gt;Inline Code&lt;/h2&gt;
-&lt;p&gt;This is an inline code example：&lt;code&gt;const x = 42;&lt;/code&gt; and &lt;code&gt;npm install&lt;/code&gt; and &lt;code&gt;git commit -m &amp;quot;update&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Hugo Narrow Theme</title><link>https://hugo-narrow.vercel.app/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/projects/hugo-narrow-theme/</guid><description>A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4.</description></item><item><title>Markdown Syntax Test Document</title><link>https://hugo-narrow.vercel.app/posts/markdown-syntax-test-document/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/markdown-syntax-test-document/</guid><description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description></item></channel></rss>
+&lt;p&gt;This is an inline code example：&lt;code&gt;const x = 42;&lt;/code&gt; and &lt;code&gt;npm install&lt;/code&gt; and &lt;code&gt;git commit -m &amp;quot;update&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Hugo Narrow Theme</title><link>https://git-najwa.github.io/labveiltech/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/projects/hugo-narrow-theme/</guid><description>A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4.</description></item><item><title>Markdown Syntax Test Document</title><link>https://git-najwa.github.io/labveiltech/posts/markdown-syntax-test-document/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/markdown-syntax-test-document/</guid><description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description></item></channel></rss>

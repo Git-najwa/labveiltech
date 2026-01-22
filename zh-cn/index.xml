@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Hugo Narrow</title><link>https://hugo-narrow.vercel.app/zh-cn/</link><description>Recent content in 首页 on Hugo Narrow</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-narrow.vercel.app/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码示例</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B/</guid><description>&lt;p&gt;本页面展示了 Hugo Narrow 主题中所有可用的短代码。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Hugo Narrow</title><link>https://git-najwa.github.io/labveiltech/zh-cn/</link><description>Recent content in 首页 on Hugo Narrow</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://git-najwa.github.io/labveiltech/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码示例</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B/</guid><description>&lt;p&gt;本页面展示了 Hugo Narrow 主题中所有可用的短代码。&lt;/p&gt;
 &lt;h2 id="hugo-内置短代码"&gt;Hugo 内置短代码&lt;/h2&gt;
 &lt;p&gt;Hugo 提供了一些&lt;a href="https://gohugo.io/shortcodes/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;内置短代码&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt;，这些内容不稳定并且随时可能变化，你可以访问页面找到详细使用说明。&lt;/p&gt;</description></item><item><title>GitHub 风格提示框测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试"&gt;GitHub 风格提示框测试&lt;/h1&gt;
+&lt;/a&gt;，这些内容不稳定并且随时可能变化，你可以访问页面找到详细使用说明。&lt;/p&gt;</description></item><item><title>GitHub 风格提示框测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试"&gt;GitHub 风格提示框测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p&gt;
 &lt;h2 id="提示框语法"&gt;提示框语法&lt;/h2&gt;
 &lt;h3 id="注意提示框"&gt;注意提示框&lt;/h3&gt;
@@ -38,7 +38,7 @@
  id="alert-0-content"
  class="alert-content px-6 pb-6"&gt;
  &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
- &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description></item><item><title>Hugo - 世界上最快的网站构建框架</title><link>https://hugo-narrow.vercel.app/zh-cn/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/projects/hugo-framework/</guid><description>使用 Go 构建的快速灵活的静态站点生成器，为全球数千个网站提供支持。</description></item><item><title>KaTeX 和 Mermaid 测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试"&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;
+ &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description></item><item><title>Hugo - 世界上最快的网站构建框架</title><link>https://git-najwa.github.io/labveiltech/zh-cn/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/projects/hugo-framework/</guid><description>使用 Go 构建的快速灵活的静态站点生成器，为全球数千个网站提供支持。</description></item><item><title>KaTeX 和 Mermaid 测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试"&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p&gt;
 &lt;h2 id="mermaid-图表测试"&gt;Mermaid 图表测试&lt;/h2&gt;
 &lt;h3 id="流程图"&gt;流程图&lt;/h3&gt;
@@ -102,7 +102,7 @@
 
 &lt;h2 id="katex-测试"&gt;KaTeX 测试&lt;/h2&gt;
 &lt;h3 id="行内公式"&gt;行内公式&lt;/h3&gt;
-&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description></item><item><title>图片渲染测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试"&gt;图片渲染测试&lt;/h1&gt;
+&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description></item><item><title>图片渲染测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试"&gt;图片渲染测试&lt;/h1&gt;
 &lt;p&gt;示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
@@ -118,7 +118,7 @@
  data-gallery-type="auto"&gt;
  &lt;div class="image-container"&gt;
  &lt;img
- src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone"
  title="摄影师 - Daniel Leone"
  
@@ -127,13 +127,13 @@
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ data-gallery-src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone"
  data-gallery-title="摄影师 - Daniel Leone" /&gt;&lt;/div&gt;
 
  &lt;figcaption class="image-caption"&gt;
  摄影师 - Daniel Leone
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>代码高亮测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试"&gt;代码高亮测试&lt;/h1&gt;
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>代码高亮测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试"&gt;代码高亮测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试新的代码高亮功能，包括语法高亮、复制按钮、语言显示等。&lt;/p&gt;
 &lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
 &lt;div
@@ -1700,4 +1700,4 @@ function test() {
 })();
 &lt;/script&gt;
 &lt;h2 id="行内代码"&gt;行内代码&lt;/h2&gt;
-&lt;p&gt;这是一个行内代码示例：&lt;code&gt;const x = 42;&lt;/code&gt; 和 &lt;code&gt;npm install&lt;/code&gt; 以及 &lt;code&gt;git commit -m &amp;quot;更新&amp;quot;&lt;/code&gt;。&lt;/p&gt;</description></item><item><title>Hugo Narrow 主题</title><link>https://hugo-narrow.vercel.app/zh-cn/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/projects/hugo-narrow-theme/</guid><description>基于 TailwindCSS 4 构建的现代 Hugo 主题，支持多种配色方案、暗色模式和响应式设计。</description></item><item><title>Markdown 语法测试文档</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid><description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description></item></channel></rss>
+&lt;p&gt;这是一个行内代码示例：&lt;code&gt;const x = 42;&lt;/code&gt; 和 &lt;code&gt;npm install&lt;/code&gt; 以及 &lt;code&gt;git commit -m &amp;quot;更新&amp;quot;&lt;/code&gt;。&lt;/p&gt;</description></item><item><title>Hugo Narrow 主题</title><link>https://git-najwa.github.io/labveiltech/zh-cn/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/projects/hugo-narrow-theme/</guid><description>基于 TailwindCSS 4 构建的现代 Hugo 主题，支持多种配色方案、暗色模式和响应式设计。</description></item><item><title>Markdown 语法测试文档</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid><description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description></item></channel></rss>

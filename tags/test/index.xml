@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Hugo Narrow</title><link>https://hugo-narrow.vercel.app/tags/test/</link><description>Recent content in Test on Hugo Narrow</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://hugo-narrow.vercel.app/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://hugo-narrow.vercel.app/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Hugo Narrow</title><link>https://git-najwa.github.io/labveiltech/tags/test/</link><description>Recent content in Test on Hugo Narrow</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://git-najwa.github.io/labveiltech/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Style Alert Test</title><link>https://git-najwa.github.io/labveiltech/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/test-alert/</guid><description>&lt;h1 id="github-style-alert-testing"&gt;GitHub Style Alert Testing&lt;/h1&gt;
 &lt;p&gt;This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p&gt;
 &lt;h2 id="alert-syntax"&gt;Alert Syntax&lt;/h2&gt;
 &lt;h3 id="note-alert"&gt;Note Alert&lt;/h3&gt;
@@ -33,7 +33,7 @@
  id="alert-0-content"
  class="alert-content px-6 pb-6"&gt;
  &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
- &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Image Rendering Test</title><link>https://hugo-narrow.vercel.app/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
+ &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description></item><item><title>Image Rendering Test</title><link>https://git-najwa.github.io/labveiltech/posts/image-rendering-test/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/image-rendering-test/</guid><description>&lt;h1 id="image-rendering-test"&gt;Image Rendering Test&lt;/h1&gt;
 &lt;p&gt;The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
@@ -49,7 +49,7 @@ All images are from &lt;a href="https://unsplash.com/"target="_blank"
  data-gallery-type="auto"&gt;
  &lt;div class="image-container"&gt;
  &lt;img
- src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone)"
  title="Photo by - Daniel Leone"
  
@@ -58,13 +58,13 @@ All images are from &lt;a href="https://unsplash.com/"target="_blank"
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ data-gallery-src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone)"
  data-gallery-title="Photo by - Daniel Leone" /&gt;&lt;/div&gt;
 
  &lt;figcaption class="image-caption"&gt;
  Photo by - Daniel Leone
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>Code Highlighting Test</title><link>https://hugo-narrow.vercel.app/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test"&gt;Code Highlighting Test&lt;/h1&gt;
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>Code Highlighting Test</title><link>https://git-najwa.github.io/labveiltech/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/posts/code-highlighting-test/</guid><description>&lt;h1 id="code-highlighting-test"&gt;Code Highlighting Test&lt;/h1&gt;
 &lt;p&gt;This article is used to test the new code highlighting feature, including syntax highlighting, copy button, language display, etc.&lt;/p&gt;
 &lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
 &lt;div

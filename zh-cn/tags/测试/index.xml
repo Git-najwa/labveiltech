@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on Hugo Narrow</title><link>https://hugo-narrow.vercel.app/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on Hugo Narrow</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://hugo-narrow.vercel.app/zh-cn/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub 风格提示框测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试"&gt;GitHub 风格提示框测试&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on Hugo Narrow</title><link>https://git-najwa.github.io/labveiltech/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on Hugo Narrow</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://git-najwa.github.io/labveiltech/zh-cn/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub 风格提示框测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试"&gt;GitHub 风格提示框测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p&gt;
 &lt;h2 id="提示框语法"&gt;提示框语法&lt;/h2&gt;
 &lt;h3 id="注意提示框"&gt;注意提示框&lt;/h3&gt;
@@ -33,7 +33,7 @@
  id="alert-0-content"
  class="alert-content px-6 pb-6"&gt;
  &lt;div class="prose prose-sm text-foreground/90 max-w-none"&gt;
- &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description></item><item><title>KaTeX 和 Mermaid 测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试"&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;
+ &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description></item><item><title>KaTeX 和 Mermaid 测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/katex-mermaid-test/</guid><description>&lt;h1 id="katex-和-mermaid-测试"&gt;KaTeX 和 Mermaid 测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试 KaTeX 数学公式渲染和 Mermaid 图表功能。&lt;/p&gt;
 &lt;h2 id="mermaid-图表测试"&gt;Mermaid 图表测试&lt;/h2&gt;
 &lt;h3 id="流程图"&gt;流程图&lt;/h3&gt;
@@ -97,7 +97,7 @@
 
 &lt;h2 id="katex-测试"&gt;KaTeX 测试&lt;/h2&gt;
 &lt;h3 id="行内公式"&gt;行内公式&lt;/h3&gt;
-&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description></item><item><title>图片渲染测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试"&gt;图片渲染测试&lt;/h1&gt;
+&lt;p&gt;这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p&gt;</description></item><item><title>图片渲染测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试"&gt;图片渲染测试&lt;/h1&gt;
 &lt;p&gt;示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
@@ -113,7 +113,7 @@
  data-gallery-type="auto"&gt;
  &lt;div class="image-container"&gt;
  &lt;img
- src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  alt="https://unsplash.com/@danielleone"
  title="摄影师 - Daniel Leone"
  
@@ -122,13 +122,13 @@
  
  loading="lazy"
  decoding="async"
- data-gallery-src="https://hugo-narrow.vercel.app/posts/image-rendering-test/bundle.avif"
+ data-gallery-src="https://git-najwa.github.io/labveiltech/posts/image-rendering-test/bundle.avif"
  data-gallery-alt="https://unsplash.com/@danielleone"
  data-gallery-title="摄影师 - Daniel Leone" /&gt;&lt;/div&gt;
 
  &lt;figcaption class="image-caption"&gt;
  摄影师 - Daniel Leone
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>代码高亮测试</title><link>https://hugo-narrow.vercel.app/zh-cn/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://hugo-narrow.vercel.app/zh-cn/posts/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试"&gt;代码高亮测试&lt;/h1&gt;
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description></item><item><title>代码高亮测试</title><link>https://git-najwa.github.io/labveiltech/zh-cn/posts/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://git-najwa.github.io/labveiltech/zh-cn/posts/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试"&gt;代码高亮测试&lt;/h1&gt;
 &lt;p&gt;本文用于测试新的代码高亮功能，包括语法高亮、复制按钮、语言显示等。&lt;/p&gt;
 &lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
 &lt;div
