@@ -5,7 +5,8 @@ defaultAuthor: "Hugo Narrow"
 language: "en-US"
 shortName: "Hugo Narrow"  # PWA
 images:
-  - "/images/og-default.avif"
+  - "/labveiltech/images/og-default.avif"
+
 
 # Favicon
 favicon:
@@ -16,7 +17,7 @@ author:
   name: "Hugo Narrow"
   title: "A Clean and Minimal Hugo Theme"
   description: "Focused on content and user experience."
-  avatar: "/images/avatar.svg"
+  avatar: "/labveiltech/images/avatar.svg"
   social:
     - name: "GitHub"
       url: "https://github.com/username"
