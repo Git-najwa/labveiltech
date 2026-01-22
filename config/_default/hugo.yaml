@@ -1,4 +1,4 @@
-baseURL: https://git-najwa.github.io/labveiltech/
+baseURL: "https://git-najwa.github.io/labveiltech/"
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false

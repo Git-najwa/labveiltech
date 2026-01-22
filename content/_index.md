@@ -6,7 +6,7 @@ author:
   name: "Hugo Narrow"
   title: "A Clean and Minimal Hugo Theme"
   description: "Focused on content and user experience."
-  avatar: "/images/avatar.svg"
+  avatar: "/labveiltech/images/avatar.svg"
   social:
     - name: "GitHub"
       url: "https://github.com/tom2almighty/hugo-narrow"
