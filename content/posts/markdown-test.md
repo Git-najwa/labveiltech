@@ -1,6 +1,6 @@
 ---
 title: "La communication print dans un contexte numérique"
-date: 2024-01-15T10:00:00+08:00
+date: 2026-01-14T10:00:00+08:00
 draft: false
 description: "Analyse de la pertinence et des spécificités de la communication imprimée face aux médias numériques"
 categories: ["Ressources"]

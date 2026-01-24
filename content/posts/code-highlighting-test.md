@@ -1,6 +1,6 @@
 ---
 title: "Les formats visuels et leurs usages"
-date: 2024-01-16T10:00:00+08:00
+date: 2026-01-12T10:00:00+08:00
 draft: false
 description: "Analyse des formats visuels et de leur pertinence selon le contexte de communication"
 tags: ["formats", "communication visuelle", "stratégie"]

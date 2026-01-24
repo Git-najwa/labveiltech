@@ -1,6 +1,6 @@
 ---
 title: "Instagram : penser sa communication visuelle"
-date: 2024-01-16T23:30:00+08:00
+date: 2026-01-08T23:30:00+08:00
 draft: false
 description: "Analyse d'une ressource sur la stratégie de communication sur Instagram"
 tags: ['instagram', 'communication visuelle', 'stratégie']

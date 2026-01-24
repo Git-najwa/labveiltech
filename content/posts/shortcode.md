@@ -1,6 +1,6 @@
 ---
 title: "LLM, apprentissage et créativité : trouver l'équilibre"
-date: 2025-12-26
+date: 2026-01-10
 draft: false
 description: "Réflexions sur l'intégration des modèles de langage dans l'apprentissage et la création de contenus"
 tags: ["LLM", "apprentissage", "créativité"]

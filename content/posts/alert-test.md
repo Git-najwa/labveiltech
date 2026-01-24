@@ -1,6 +1,6 @@
 ---
 title: "Système de veille"
-date: 2025-06-01T10:00:00+08:00
+date: 2026-01-06T10:00:00+08:00
 slug: test-alert
 draft: false
 description: "Mon approche et mes outils de veille en communication visuelle"
