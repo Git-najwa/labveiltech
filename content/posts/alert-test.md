@@ -1,52 +1,20 @@
 ---
-title: "GitHub Style Alert Test"
+title: "Système de veille"
 date: 2025-06-01T10:00:00+08:00
 slug: test-alert
 draft: false
-description: "Testing GitHub-style Alert and folding features"
-tags: ["test", "alert", "markdown"]
-categories: ["Github"]
+description: "Mon approche et mes outils de veille en communication visuelle"
+tags: ["veille", "communication visuelle"]
+categories: ["Veille"]
 ---
 
-# GitHub Style Alert Testing
+Mon système de veille s'appuie principalement sur Instagram, que j'utilise comme un espace d'observation des pratiques actuelles en communication visuelle. Cette plateforme est centrale dans la diffusion des contenus visuels et permet de comprendre concrètement dans quel environnement les messages sont produits et partagés.
 
-This article is used to test the new GitHub-style Alert feature and folding functionality.
+Je suis des designers graphiques, créateurs vidéo, photographes et comptes spécialisés en branding et narration visuelle. Je privilégie les profils qui expliquent leurs choix, montrent leur processus de travail ou analysent leurs productions, afin de comprendre les logiques visuelles et narratives derrière les contenus.
 
-## Alert Syntax
+Ma veille est volontairement active : j'identifie les formats récurrents, j'observe la construction des messages et je sauvegarde les contenus pertinents pour une analyse ultérieure. En complément des réseaux sociaux, je consulte des articles pour approfondir certaines notions et prendre du recul par rapport aux tendances.
 
-### Note Alert
-
-> [!NOTE]
-> This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.
-
-### Tip Alert
-
-> [!TIP]
-> This is a tip alert box. Provides suggestions that help complete tasks better or more easily.
-
-### Important Alert
-
-> [!IMPORTANT]
-> This is an important alert box. Displays critical information users need to know to achieve their goals.
-
-### Warning Alert
-
-> [!WARNING]
-> This is a warning box. Urgent information that requires immediate user attention to avoid problems.
-
-### Caution Alert
-
-> [!CAUTION]
-> This is a caution alert box. Advises users to be aware of the risks or negative consequences of certain behaviors.
-
-## Extended Syntax - Custom Titles
-
-### Note with Custom Title
-
-> [!NOTE] Custom Title
-> This is a note alert box with a custom title.
-
-### Warning with Custom Title
+Cette routine me permet de maintenir une veille régulière, structurée et directement utile pour mon domaine et mes études, en reliant observation, analyse et apprentissage.
 
 > [!WARNING] Radiation Hazard
 > Do not approach or handle without protective equipment.

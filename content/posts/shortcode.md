@@ -1,63 +1,48 @@
 ---
-title: "Shortcode Examples"
+title: "LLM, apprentissage et créativité : trouver l'équilibre"
 date: 2025-12-26
 draft: false
-description: "A complete guide to all available shortcodes for the Hugo Narrow theme"
-tags: ["shortcode"]
-categories: ["shortcode"]
+description: "Réflexions sur l'intégration des modèles de langage dans l'apprentissage et la création de contenus"
+tags: ["LLM", "apprentissage", "créativité"]
+categories: ["Réflexions"]
 ---
 
-This page demonstrates all available shortcodes in the Hugo Narrow theme.
-
-## Hugo Built-in Shortcodes
-
-Hugo provides several [built-in shortcodes](https://gohugo.io/shortcodes/). The content of these shortcodes is subject to change without notice, so you can visit the official page for detailed usage instructions.
-
-The built-in shortcodes include:
-
-- Details
-- Figure
-- Gist
-- Highlight
-- Instagram
-- Param
-- QR
-- Ref
-- Relref
-- Vimeo
-- X
-- YouTube
+Les **LLM** occupent une place croissante dans les pratiques d'apprentissage et de production de contenus, notamment en communication visuelle. S'ils offrent des outils intéressants pour comprendre ou structurer certaines notions, leur usage soulève aussi des questions liées à la réflexion personnelle, à la mémorisation et à la créativité.
 
 ---
 
-## Theme Custom Shortcodes
+### Réflexion personnelle et uniformisation des contenus
 
-### Icon
+L'un des principaux risques liés à l'usage des LLM est le **désengagement intellectuel**. En s'appuyant trop rapidement sur des réponses générées, il devient possible de réduire l'effort de réflexion, d'analyse et de formulation personnelle, ce qui peut conduire à une compréhension superficielle et à une mémorisation limitée.
 
-Display SVG icons from the theme's icon library:
+Par ailleurs, une utilisation non critique des LLM peut entraîner une **homogénéisation des contenus** : mêmes structures, même ton et mêmes manières de communiquer. Dans un domaine créatif comme la communication visuelle, ce phénomène peut appauvrir la diversité des approches et limiter l'originalité des messages. Il devient alors essentiel de conserver un temps de réflexion autonome et de ne pas déléguer entièrement la formulation à ces outils.
 
-```markdown
-{{</* icon name="heart" */>}}
-{{</* icon name="github" size="lg" */>}}
-{{</* icon name="sun" class="text-primary" */>}}
-```
+---
 
-**Example:**
-{{< icon name="heart" >}} {{< icon name="github" size="lg" >}} {{< icon name="sun" size="xl" class="text-primary" >}}
+### Effort personnel et apprentissage durable
 
-**Parameters:**
+Pour favoriser un apprentissage réel, il serait pertinent de considérer les LLM comme des **outils secondaires**. Reformuler les notions avec ses propres mots, les relier à des références concrètes ou les appliquer à des projets permettrait de renforcer la compréhension et la mémorisation sur le long terme.
 
-- name: Icon name (required) - Check assets/icons/ for available icons or place custom icons in this directory, or place the custom icon in this directory
-- size: xs, sm, md, lg, xl, 2xl (default: md)
-- class: Custom CSS class, which can be used to change colors
+L'effort personnel resterait ainsi un élément central du processus d'apprentissage.
 
-### Button
+---
 
-Create styled buttons with theme colors:
+### Utiliser les LLM de manière raisonnée
 
-```markdown
-{{</* button text="Learn More" url="/about" */>}}
-{{</* button text="GitHub" url="https://github.com" icon="github" target="_self" */>}}
+Dans le cadre de la communication visuelle, les LLM pourraient être utilisés pour :
+
+- clarifier des concepts théoriques,
+- comparer différentes approches ou méthodes,
+- structurer une réflexion ou une analyse,
+- ouvrir des pistes de recherche.
+
+Ils interviendraient comme soutien à la réflexion, sans remplacer l'observation, la pratique et l'expérimentation.
+
+---
+
+### Conclusion
+
+L'enjeu n'est pas d'éviter les LLM, mais de réfléchir à la manière de les intégrer dans un processus d'apprentissage. Une utilisation raisonnée permettrait de bénéficier de leurs apports tout en préservant la réflexion personnelle, la diversité des contenus et une identité propre en communication visuelle.
 {{</* button text="Download" url="/download" variant="outline" size="lg" */>}}
 ```
 
